@@ -1,3 +1,6 @@
 npx kill-port 8080
 delete a folder:
 rmdir /s PATH\TO\FOLDER-NAME
+To shut down your computer, type shutdown /s
+To restart your computer, type shutdown /r
+To log off your computer type shutdown /l
